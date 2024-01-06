@@ -4,7 +4,7 @@ int main()
 {
     cout << "aman loves janhvi ";
 
-:diffg RE    return 0;
+  return 0;
     //  this is code
     
 
